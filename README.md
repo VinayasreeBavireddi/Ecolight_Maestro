@@ -1,4 +1,4 @@
-# 🕹️ LPC21xx Embedded RTC + LDR + LCD System
+# 🕹️ LPC2148 Embedded RTC + LDR + LCD System
 
 This embedded systems project for the LPC21xx microcontroller demonstrates the integration of a Real-Time Clock (RTC), Light Dependent Resistor (LDR) sensor, LCD display, keypad-based RTC editing via external interrupt, and LED brightness control based on ambient light and time.
 
