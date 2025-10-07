@@ -27,6 +27,11 @@ This embedded systems project for the LPC21xx microcontroller demonstrates the i
 
 ---
 
+# Block Diagram
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/e29aa197-0020-4275-af90-915c8d0ec12e" />
+
+---
+
 ## 📁 Project Structure
 
 ```
