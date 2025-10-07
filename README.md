@@ -95,6 +95,12 @@ This embedded systems project for the LPC21xx microcontroller demonstrates the i
 
 ---
 
+## Hardware Setup (Proteus)
+<img width="1180" height="834" alt="image" src="https://github.com/user-attachments/assets/5b9068df-3f85-487c-8ccd-d1d4f8b16f9e" />
+
+____
+
+
 ## 🔨 To Build and Flash
 
 > You can use **Keil uVision**, **Flash Magic**, or **LPCXpresso**.
@@ -106,6 +112,10 @@ This embedded systems project for the LPC21xx microcontroller demonstrates the i
 
 ___
 
+## Output (Proteus)
+<img width="1185" height="833" alt="image" src="https://github.com/user-attachments/assets/87b92457-e2a1-47a6-b20c-b21411a98fe5" />
+<img width="1179" height="831" alt="image" src="https://github.com/user-attachments/assets/225d7db1-9818-4581-b3ac-1d2f1f8ad4e8" />
+<img width="1183" height="834" alt="image" src="https://github.com/user-attachments/assets/cbb7f341-f21f-4acb-aa36-c5c3d19faff9" />
 
 ## 📚 References
 
