@@ -77,7 +77,7 @@ This embedded systems project for the LPC21xx microcontroller demonstrates the i
 ## 📸 Example LCD Output
 
 ```
-12:45:30 3.20V
+12:45:30 3.20
 07/10/25 Tue
 ```
 
@@ -104,43 +104,11 @@ This embedded systems project for the LPC21xx microcontroller demonstrates the i
 3. Compile and generate HEX file.
 4. Flash using **Flash Magic** via UART or any supported programmer.
 
----
+___
 
-## 📋 Dependencies
-
-Ensure the following header/source files are correctly implemented:
-
-- `kpm.h` — for keypad scanning
-- `RTC.h` — for RTC variable management
-- `adc.h` — for LDR/ADC readings
-- `LCD_INIT.h` & `lcd_defines.h` — for LCD control
-- `Interruptenable.h` — for enabling external interrupt
-
----
 
 ## 📚 References
 
 - LPC2148 Datasheet
 - Embedded C Programming
 - ARM7 Based Microcontroller Tutorials
-
----
-
-## ✅ TODO
-
-- [ ] Add buzzer or alarm on time trigger
-- [ ] Add EEPROM storage for RTC settings
-- [ ] Use PWM for smoother LED dimming
-
----
-
-## 📝 License
-
-This project is open-source and free to use under the MIT License.
-
----
-
-## 🙌 Acknowledgements
-
-Thanks to the community and documentation for LPC21xx series for making low-level embedded development accessible.
-
